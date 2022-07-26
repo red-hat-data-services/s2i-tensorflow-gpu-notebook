@@ -1,11 +1,12 @@
 # See the OWNERS docs at https://go.k8s.io/owners
 
 approvers:
-  - goern
-  - harshad16
-  - vpavlin
+  - samuelvl
+  - VaishnaviHire
+  - crobby
+  - anishasthana
 reviewers:
-  - harshad16
-  - vpavlin
-  - fridex
-  - pacospace
+  - samuelvl
+  - VaishnaviHire
+  - crobby
+  - anishasthana
